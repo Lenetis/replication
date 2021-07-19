@@ -39,7 +39,7 @@
 	"transportable": {
 		"size": 1
 	},
-	"buildable_types": "((Naval & Structure & Advanced | Naval & Factory & Advanced | FabAdvBuild | FabBuild | Naval & Mobile & FactoryBuild) - Custom1 - Custom2 - Custom3 - Custom4) | (Naval & Titan)",
+	"buildable_types": "((Naval & Structure & Advanced | Naval & Factory & Advanced | FabAdvBuild | FabBuild | Naval & Mobile & FactoryBuild - Titan) - Custom1 - Custom2 - Custom3 - Custom4) | (Naval & Titan)",
 	"physics": {
 		"shape": "sphere",
 		"radius": 6,

@@ -1,11 +1,11 @@
 {
     "identifier": "com.pa.lenetis.replication",
     "display_name": "Replication",
-    "description": "Gives all fabricators an ability to build units of their respective tier and type. Also adds T2 orbital fabricator.",
+    "description": "Gives all fabricators an ability to build units of their respective tier and type. Adds a new T2 orbital fabricator. Compatible with Legion, Second Wave, Section 17 and most other mods.",
     "author": "Lenetis",
     "signature": "not yet implemented",
     "forum": "https://forums.planetaryannihilation.com/threads/replication.73548/",
-    "priority": 100,
+    "priority": 85,
     "icon": "https://raw.githubusercontent.com/Lenetis/misc/main/icons/replication-icon.png",
     "titansOnly": true,
 	"scenes": {
@@ -22,7 +22,7 @@
 		"gameplay"
     ],
     "context": "server",
-    "date": "2021-04-13",
-    "build": "115546",
-    "version": "1.0"
+    "date": "2021-07-19",
+    "build": "115923",
+    "version": "1.01"
 }

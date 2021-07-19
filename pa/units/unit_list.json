@@ -203,6 +203,7 @@
 		"/pa/units/sea/fabrication_barge/fabrication_barge.json",
 		"/pa/units/sea/hover_ship/hover_ship.json",
 		
-		"/pa/units/orbital/orbital_fabrication_bot_adv/orbital_fabrication_bot_adv.json"
+		"/pa/units/orbital/orbital_fabrication_bot_adv/orbital_fabrication_bot_adv.json",
+		"/pa/units/orbital/l_orbital_fabrication_bot_adv/l_orbital_fabrication_bot_adv.json"
 	]
 }

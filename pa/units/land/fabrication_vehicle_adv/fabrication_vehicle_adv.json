@@ -19,7 +19,7 @@
 			]
 		}
 	},
-	"buildable_types": "Structure & Land & Advanced - Factory | Factory & Land & Tank & Advanced | FabAdvBuild | FabBuild | Titan & (Tank | Naval) | Tank & Mobile & FactoryBuild",
+	"buildable_types": "(Structure & Land & Advanced - Factory | Factory & Land & Tank & Advanced | FabAdvBuild | FabBuild | Titan & (Tank | Naval) | Tank & Mobile & FactoryBuild) - Custom1 - Custom2 - Custom3 - Custom4",
 	"unit_types": [
 		"UNITTYPE_Fabber",
 		"UNITTYPE_Construction",

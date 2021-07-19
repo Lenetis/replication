@@ -8,7 +8,7 @@
 	"system_velocity_multiplier": 15.0,
 	"gravwell_velocity_multiplier": 6.0,
 	"spawn_layers": "WL_Orbital",
-	"buildable_types": "FabOrbBuild | Orbital & FactoryBuild & Basic",
+	"buildable_types": "(FabOrbBuild | Orbital & FactoryBuild & Basic) - Custom1 - Custom2 - Custom3 - Custom4",
 	"unit_types": [
 		"UNITTYPE_Orbital",
 		"UNITTYPE_Fabber",

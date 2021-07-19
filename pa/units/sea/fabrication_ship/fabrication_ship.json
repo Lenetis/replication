@@ -25,7 +25,7 @@
 			]
 		}
 	},
-	"buildable_types": "Naval & Structure & Basic | Naval & Factory & Advanced | Air & Factory & Basic | FabBuild | Naval & Mobile & Basic & FactoryBuild",
+	"buildable_types": "(Naval & Structure & Basic | Naval & Factory & Advanced | Air & Factory & Basic | FabBuild | Naval & Mobile & Basic & FactoryBuild) - Custom1 - Custom2 - Custom3 - Custom4",
 	"unit_types": [
 		"UNITTYPE_Fabber",
 		"UNITTYPE_Construction",

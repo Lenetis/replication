@@ -1,7 +1,7 @@
 {
     "identifier": "com.pa.lenetis.replication",
     "display_name": "Replication",
-    "description": "Gives all fabricators an ability to build units of their respective tier and type. Adds a new T2 orbital fabricator. Compatible with Legion, Second Wave, Section 17 and most other mods.",
+    "description": "Gives all fabricators an ability to build units of their respective tier and type to make them useful as support units, allowing you to dynamically adjust your army composition and build units on the go. Adds a new T2 orbital fabricator. Compatible with Legion, Second Wave, Section 17 and most other mods.",
     "author": "Lenetis",
     "signature": "not yet implemented",
     "forum": "https://forums.planetaryannihilation.com/threads/replication.73548/",

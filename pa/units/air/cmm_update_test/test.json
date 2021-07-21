@@ -1,0 +1,5 @@
+{
+	"base_spec": "/pa/units/air/gunship/gunship.json",
+	"display_name": "cmm update test",
+	"description": "updating only the modinfo.json file doesn't seem to update my mod in the Community Mods, so this is a test file to check if it'll work now"
+}

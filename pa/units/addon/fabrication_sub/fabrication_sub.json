@@ -19,7 +19,7 @@
     "transportable": {
         "size": 1
     },
-    "buildable_types": "(Naval & Structure & Basic | Naval & Factory & Advanced | Air & Factory & Basic | FabBuild | Naval & Mobile & Basic & FactoryBuild) - Custom1 - Custom2 - Custom3 - Custom4",
+    "buildable_types": "(Naval & Structure & Basic | Factory & Basic | Factory & Advanced & Naval | FabBuild | Naval & Mobile & Basic & FactoryBuild) - Custom1 - Custom2 - Custom3 - Custom4",
     "guard_layer": "WL_AnyWater",
     "navigation": {
         "type": "underwater",
